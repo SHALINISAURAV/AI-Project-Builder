@@ -14,7 +14,7 @@
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/🌐_LIVE_DEMO-Try_it_Now_→-f59e0b?style=for-the-badge&labelColor=1c1008)](https://ai-project-builder-ymabelvvghb3wqratfrbbr.streamlit.app)
+[![Try Live Demo](https://img.shields.io/badge/🚀_Live_Demo-ai--project--builder.streamlit.app-f59e0b?style=for-the-badge)](https://ai-project-builder-9wgnsgdjpvq2gcwsvz7sr4.streamlit.app)
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
 [![Groq](https://img.shields.io/badge/Groq-Powered-F55036?style=for-the-badge)](https://groq.com)
@@ -266,7 +266,7 @@ Turning coffee and curiosity into intelligent systems.
 
 ### ⭐ Found this useful? Star it — it means everything!
 
-[![Try Live Demo](https://img.shields.io/badge/🚀_Live_Demo-ai--project--builder.streamlit.app-f59e0b?style=for-the-badge)](https://ai-project-builder-ymabelvvghb3wqratfrbbr.streamlit.app)
+[![Try Live Demo](https://img.shields.io/badge/🚀_Live_Demo-ai--project--builder.streamlit.app-f59e0b?style=for-the-badge)](https://ai-project-builder-9wgnsgdjpvq2gcwsvz7sr4.streamlit.app)
 
 <br/>
 
