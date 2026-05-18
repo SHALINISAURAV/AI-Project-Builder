@@ -186,7 +186,7 @@ ai-project-builder/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/ai-project-builder.git
+git clone https://github.com/SHALINISAURAV/ai-project-builder.git
 cd ai-project-builder
 
 # 2. Create virtual environment
