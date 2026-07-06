@@ -273,4 +273,3 @@ Turning coffee and curiosity into intelligent systems.
 *"The best way to learn AI is to build with it."*
 
 </div>
-
